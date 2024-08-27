@@ -278,6 +278,7 @@ body {
 @media (max-width: 600px) {
   .header__title {
     width: 100%;
+    font-size: 40px;
   }
 }
 
