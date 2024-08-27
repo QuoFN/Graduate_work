@@ -234,6 +234,7 @@ body {
 .header {
   padding-top: 186px;
   padding-bottom: 180px;
+  background-color: rgba(0, 255, 229, 0.384);
 }
 @media (max-width: 900px) {
   .header {
